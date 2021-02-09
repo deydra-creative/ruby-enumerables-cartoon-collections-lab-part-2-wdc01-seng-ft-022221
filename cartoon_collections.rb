@@ -11,6 +11,9 @@ def square_array(array)
 end
 
 def summon_captain_planet(planeteer_calls)
+ calls = ["earth", "wind", "fire", "water", "heart"]
+ 
+long_planeteer_calls(calls)
  
 end
 
